@@ -1,1 +1,2 @@
 this is text file 1
+add more line to commit without staging
