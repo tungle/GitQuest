@@ -8,3 +8,4 @@ second edit on branch1 (similar to C5 in tutorial)
 chagne in branch1 
 
 edit in branch2
+edit in master
