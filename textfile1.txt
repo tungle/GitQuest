@@ -5,10 +5,11 @@ another commit from tungskedgo
 Changes from hotfix
 this is the edit on branch
 second edit on branch1 (similar to C5 in tutorial)
+chagne in branch1 
 
 edit in branch2
-<<<<<<< HEAD
+
 master continue to develop
-=======
+
 edit in master
->>>>>>> da2b3e3c781bfb2b13ac67be5bb51c4a4294dc92
+edit in testbranch
