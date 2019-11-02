@@ -1,3 +1,7 @@
 
 master continue to develop
 develop changed
+
+thi is  feature1
+
+this feature 2 blablablavsf
