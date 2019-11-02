@@ -1,10 +1,2 @@
-this is text file 1 
-commit again from tungskedgo
-another commit from tungskedgo
-3rd commit skedgo
-Changes from hotfix
-this is the edit on branch
-second edit on branch1 (similar to C5 in tutorial)
 
-edit in branch2
 master continue to develop
